@@ -11,6 +11,6 @@ For more information on how to build custom email templates, read [our guide](ht
 All templates have been tested and render consistently across all major email clients. If you do find a bug or have a question please contact our Creative Director:
 Chelsea Rio (chelsea \@/ mailermailer.com)
 
-&copy;2001-2013 [MailerMailer LLC](http://www.mailermailer.com), licensed under under [CC-BY-3.0](http://creativecommons.org/licenses/by/3.0/ "CC-BY-3.0")
+&copy;2001-2013 [MailerMailer LLC](http://www.mailermailer.com), licensed under [CC-BY-3.0](http://creativecommons.org/licenses/by/3.0/ "CC-BY-3.0")
 
 [![CC-BY-3.0](http://i.creativecommons.org/l/by/3.0/88x31.png "CC-BY-3.0")](http://creativecommons.org/licenses/by/3.0/)
